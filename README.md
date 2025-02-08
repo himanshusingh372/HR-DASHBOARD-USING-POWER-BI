@@ -4,4 +4,5 @@ Developed an interactive HR analytics dashboard in Power BI to monitor and analy
 ◦ Skills: Power BI for data visualization and dashboard creation, Excel for data analysis and reporting, and SQL for data extraction and transformation.
 
 ◦ Highlights: Designed dynamic HR dashboards, tracked key HR metrics, and provided actionable insights to improve employee retention, productivity, and hiring strategies.
-![Uploading image.png…]()
+!![HR-DASHBOARD](https://github.com/user-attachments/assets/8d260bea-253f-4050-9109-c7d3e6770d1c)
+
